@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lebed\\source\\repos\\QC\\lab6\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C7A7B-0B66-4834-A897-1BFE14259A9E}|MarketplaceDomain.Tests\\MarketplaceDomain.Tests.csproj|c:\\users\\lebed\\source\\repos\\qc\\lab6\\lab6\\marketplacedomain.tests\\marketplaceordertests.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C7A7B-0B66-4834-A897-1BFE14259A9E}|MarketplaceDomain.Tests\\MarketplaceDomain.Tests.csproj|solutionrelative:marketplacedomain.tests\\marketplaceordertests.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C7A7B-0B66-4834-A897-1BFE14259A9E}|MarketplaceDomain.Tests\\MarketplaceDomain.Tests.csproj|c:\\users\\lebed\\source\\repos\\qc\\lab6\\lab6\\marketplacedomain.tests\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E60C7A7B-0B66-4834-A897-1BFE14259A9E}|MarketplaceDomain.Tests\\MarketplaceDomain.Tests.csproj|solutionrelative:marketplacedomain.tests\\coverage.cobertura.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "coverage.cobertura.xml",
+              "DocumentMoniker": "C:\\Users\\Lebed\\source\\repos\\QC\\lab6\\Lab6\\MarketplaceDomain.Tests\\coverage.cobertura.xml",
+              "RelativeDocumentMoniker": "MarketplaceDomain.Tests\\coverage.cobertura.xml",
+              "ToolTip": "C:\\Users\\Lebed\\source\\repos\\QC\\lab6\\Lab6\\MarketplaceDomain.Tests\\coverage.cobertura.xml",
+              "RelativeToolTip": "MarketplaceDomain.Tests\\coverage.cobertura.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-11-09T12:29:10.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarketplaceOrderTests.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Lebed\\source\\repos\\QC\\lab6\\Lab6\\MarketplaceDomain.Tests\\MarketplaceOrderTests.cs.cs",
+              "RelativeDocumentMoniker": "MarketplaceDomain.Tests\\MarketplaceOrderTests.cs.cs",
+              "ToolTip": "C:\\Users\\Lebed\\source\\repos\\QC\\lab6\\Lab6\\MarketplaceDomain.Tests\\MarketplaceOrderTests.cs.cs",
+              "RelativeToolTip": "MarketplaceDomain.Tests\\MarketplaceOrderTests.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:51:07.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 29,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

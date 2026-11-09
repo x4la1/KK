@@ -1,0 +1,11 @@
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\bin\Debug\net9.0\MarketplaceDomain.deps.json
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\bin\Debug\net9.0\MarketplaceDomain.dll
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\bin\Debug\net9.0\MarketplaceDomain.pdb
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\MarketplaceDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\MarketplaceDomain.AssemblyInfoInputs.cache
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\MarketplaceDomain.AssemblyInfo.cs
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\MarketplaceDomain.csproj.CoreCompileInputs.cache
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\MarketplaceDomain.dll
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\refint\MarketplaceDomain.dll
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\MarketplaceDomain.pdb
+C:\Users\Lebed\source\repos\QC\lab6\Lab6\MarketplaceDomain\obj\Debug\net9.0\ref\MarketplaceDomain.dll
